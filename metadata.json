@@ -1,5 +1,0 @@
-{
-  "name": "KEX Sales Performance Dashboard",
-  "description": "A high-fidelity sales performance dashboard for KEX Express, featuring hierarchical access control, KPI tracking (Con, Rev, YPC, YPW, WPC), and detailed customer insights.",
-  "requestFramePermissions": []
-}
